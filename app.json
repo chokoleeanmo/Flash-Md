@@ -64,7 +64,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Your WhatsApp number in international format (e.g. 254742063630)",
-      "value": "",
+      "value": "2348154435019",
       "required": true
     },
     "HEROKU_API_KEY": {
